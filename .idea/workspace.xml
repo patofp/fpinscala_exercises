@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+    <list default="true" id="3dbc9ffe-6fcd-4087-b0a6-f89b9e7cfc2f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_library_2_12_2_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/fpinscala_exercises-build.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/fpinscala_exercises.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/HelloWorld.scala" />
+    </list>
     <list default="true" id="3dbc9ffe-6fcd-4087-b0a6-f89b9e7cfc2f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -661,12 +671,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1493637590966</updated>
+<<<<<<< HEAD
       <workItem from="1493637592491" duration="409000" />
+=======
+      <workItem from="1493637592491" duration="351000" />
+>>>>>>> 16ef8fd1ed9492fc24f4852ccfc39dabafbea3c7
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="409000" />
+=======
+    <option name="totallyTimeSpent" value="351000" />
+>>>>>>> 16ef8fd1ed9492fc24f4852ccfc39dabafbea3c7
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
